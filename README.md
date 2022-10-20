@@ -1,5 +1,5 @@
 # Notifications-API-Test
-Testing the Notifications API Endpoints and Running CI/CD Pipeline.
+Testing the Notifications API Endpoints and Running CI/CD Pipeline over.
 
 
 Making some changes!
